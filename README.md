@@ -6,7 +6,7 @@ Named Entity Recognition und Word Embeddings sind grundlegende Methoden des Natu
 
 Workshop vom 2.3. bis 4.3.2022
 
-## Datengrundlage
+## Zur Datengrundlage
 
 Die Textdaten für den Workshop sind dem Projekt [German Political Speeches Corpus](https://politische-reden.eu/) entnommen. Ein zip-file mit xml-Dateien ist via Zenodo verfügbar: https://zenodo.org/record/3611246
 
@@ -14,4 +14,4 @@ Die Textdaten für den Workshop sind dem Projekt [German Political Speeches Corp
 
 Barbaresi, Adrien (2018). "A corpus of German political speeches from the 21st century", Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), European Language Resources Association (ELRA), pp. 792–797. http://purl.org/corpus/german-speeches (BibTeX entry)
 
-Adrien Barbaresi. (2019). German Political Speeches Corpus (Version v4.2019) [Data set]. Zenodo.https://doi.org/10.5281/zenodo.3611246
+Adrien Barbaresi. (2019). German Political Speeches Corpus (Version v4.2019) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3611246
