@@ -1,6 +1,8 @@
 # Natural Language Processing für Historiker:innen mit den Python Frameworks Flair und SpaCy
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/workshop-nlp-spacy-flair/HEAD)
+[![Open In
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Digital-History-Berlin/workshop-nlp-spacy-flair)
 
 *Notebooks zum Workshops*
 
